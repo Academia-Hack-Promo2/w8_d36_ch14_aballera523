@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  acc_type: MyString
+  acc_number: MyString
+  amount: 9.99
+  balance: 9.99
+  customer_id: 
+
+two:
+  acc_type: MyString
+  acc_number: MyString
+  amount: 9.99
+  balance: 9.99
+  customer_id: 
